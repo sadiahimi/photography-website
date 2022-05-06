@@ -1,0 +1,96 @@
+.page-title {
+    padding-top: 20px;
+    color: #5a5a5a;
+}
+
+.price {
+    background: #f90D53;
+    color: #fff;
+    border-radius: 10px;
+    margin: 30px 0 0 0;
+    padding: 20px 0 20px 0;
+    box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.2);
+}
+
+.price h2 {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.price h4 {
+    text-align: center;
+}
+
+.price:hover {
+    padding-top: 20px;
+
+}
+
+.featured {
+    background: #fff;
+    color: #f90D53;
+    margin: 0;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.btn.order-btn {
+    color: #f90D53;
+    width: 50%;
+    border-radius: 10px;
+    border: 1px solid;
+}
+
+.btn-order {
+    color: #f90D53;
+    width: 50%;
+    background-image: white;
+    border-radius: 10px;
+    border: 1px solid;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(white, gray);
+    padding: 2px 40px;
+    color: black;
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+footer {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-image: linear-gradient(black, gray);
+    height: auto;
+    width: 100vw;
+    font-family: sans-serif;
+    padding-top: 40px;
+    color: seashell;
+}
+
+.footer-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.footer-content h5 {
+    font-size: 1.8rem;
+    font-weight: 400;
+    text-transform: capitalize;
+    line-height: 3rem;
+}
+
+.footer-content p {
+    max-width: 500px;
+    margin: 10px auto;
+    line-height: 28px;
+    font-size: 14px;
+}
+
+.app img {
+    width: 10%;
+}
